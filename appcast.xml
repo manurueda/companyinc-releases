@@ -5,6 +5,18 @@
     <link>https://www.company.inc</link>
     <description>Latest company.inc releases for macOS.</description>
     <language>en</language>
+        <item>
+        <title>Version 1.0.0</title>
+        <pubDate>Sat, 02 May 2026 20:29:31 +0000</pubDate>
+        <sparkle:version>46</sparkle:version>
+        <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+        <enclosure
+            url="https://github.com/manurueda/companyinc-releases/releases/download/v1.0.0/companyinc-1.0.0.dmg"
+            sparkle:edSignature="8323HKLKxEpOEFjV0vnlbpqhkFwIc1Q3HRpQv5mVUdWTGL/xFM/zlnXUeo9U8BcysRf/M8Vy4A0i9gblurtjBA=="
+            length="29254586"
+            type="application/octet-stream"/>
+    </item>
     <!-- @LATEST_ITEM -->
   </channel>
 </rss>
