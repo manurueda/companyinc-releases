@@ -617,6 +617,18 @@
         length="50405759"
         type="application/octet-stream"/>
 </item>
+    <item>
+    <title>Version 1.2.21</title>
+    <pubDate>Tue, 12 May 2026 20:01:52 +0000</pubDate>
+    <sparkle:version>220</sparkle:version>
+    <sparkle:shortVersionString>1.2.21</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/manurueda/companyinc-releases/releases/download/v1.2.21/companyinc-1.2.21.dmg"
+        sparkle:edSignature="SDZX/9qR/Y7K0uWCWJ80FEG+JLm6hHl7hlIzD00VULdvn7TTPqPQbM507WNwilEH+EPlQ/lU2O+6Ubhd1AK3Dw=="
+        length="50018801"
+        type="application/octet-stream"/>
+</item>
     <!-- @LATEST_ITEM -->
   </channel>
 </rss>
