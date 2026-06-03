@@ -1217,6 +1217,18 @@
         length="79717447"
         type="application/octet-stream"/>
 </item>
+    <item>
+    <title>Version 1.2.73</title>
+    <pubDate>Wed, 03 Jun 2026 18:27:48 +0000</pubDate>
+    <sparkle:version>346</sparkle:version>
+    <sparkle:shortVersionString>1.2.73</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/manurueda/companyinc-releases/releases/download/v1.2.73/companyinc-1.2.73.dmg"
+        sparkle:edSignature="tXdrVLvkSQKX9499+3IWAQKfYxk6A//BvGBr6BdkTVF6QPuQLk7y/qm/WvWZwD5Q64nkEP5BusQMsJP1xkSLCQ=="
+        length="79728323"
+        type="application/octet-stream"/>
+</item>
     <!-- @LATEST_ITEM -->
   </channel>
 </rss>
